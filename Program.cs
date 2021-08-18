@@ -23,7 +23,16 @@ namespace HelloWorld
                             Console.WriteLine("Hello Worl- Urk! I mean, you may pass, adventurer.");
                             
                         }
+                        else{
+                             Console.WriteLine("*you are flung into the abyss below the bridge*");
+                        }
                     }
+                    else{
+                        Console.WriteLine("*you are flung into the abyss below the bridge*");
+                    }
+                }
+                else{
+                Console.WriteLine("*you are flung into the abyss below the bridge*");
                 }
             }
             else{
